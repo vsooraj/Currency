@@ -1,0 +1,6 @@
+f:\Projects\CuurencyFormat\CuurencyFormat\bin\Debug\CuurencyFormat.exe.config
+f:\Projects\CuurencyFormat\CuurencyFormat\bin\Debug\CuurencyFormat.exe
+f:\Projects\CuurencyFormat\CuurencyFormat\bin\Debug\CuurencyFormat.pdb
+f:\Projects\CuurencyFormat\CuurencyFormat\obj\Debug\CuurencyFormat.exe
+f:\Projects\CuurencyFormat\CuurencyFormat\obj\Debug\CuurencyFormat.pdb
+f:\Projects\CuurencyFormat\CuurencyFormat\obj\Debug\CuurencyFormat.csprojResolveAssemblyReference.cache
